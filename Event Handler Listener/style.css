@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+}
+.box {
+  padding: 40px;
+  background-color: white;
+  border: 8px solid teal;
+}
